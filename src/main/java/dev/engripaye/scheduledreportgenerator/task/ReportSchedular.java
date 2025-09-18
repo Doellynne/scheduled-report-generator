@@ -20,11 +20,11 @@ public class ReportSchedular {
 
 
     /*
-    * Runs every day at 8AM
+    * Runs every day at 8AM modified to run (every 30 secs)
     * cron format: second, minute, hour, day-of-month, month, day-of-week
     */
 
-    @Scheduled(cron = "0 0 8 * * ?")
+    @Scheduled(cron = "0/30 * * * * ?")
     public void generateDailyReport(){
         List<Note> notes = noteRepository.findAll();
         System.out.println("=== Daily Report (" + LocalDateTime.now() + ") ===");
